@@ -1,0 +1,39 @@
+X = 3
+
+Y = 2
+
+Z = 11
+
+Resposta = B
+
+X = 150
+
+Y = 3 
+
+Z = 455
+
+Resposta = C
+
+X = 7
+
+Y = -1 
+
+Z = -2
+
+Resposta = A
+
+X = -2
+
+Y =  5
+
+Z = -5
+
+Resposta = A
+
+X = 50
+
+Y =  3
+
+Z = 155
+
+Resposta = C
